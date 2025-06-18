@@ -24,7 +24,7 @@ Webブラウザでアクセスすると「こんにちはセカイ」と表示�
 2. 作業したいディレクトリに移動します
 3. 以下のコマンドでリポジトリをクローンします：
 ```bash
-git clone https://github.com/[ユーザー名]/simple_flask.git
+git clone https://github.com/kkawailab/simple_flask.git
 cd simple_flask
 ```
 
