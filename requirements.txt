@@ -1,0 +1,3 @@
+# Flaskアプリケーションに必要なパッケージのリスト
+# pip install -r requirements.txt でインストールできます
+Flask==3.0.0
